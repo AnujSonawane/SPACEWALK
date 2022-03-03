@@ -1,0 +1,325 @@
+*{
+    background-color: black;
+}
+
+.topnav{
+    margin-top: 2.5vw;
+    margin-left: 31%;
+      position: relative;
+  }
+.topnav-centered a{
+    
+    font-family:Stick No Bills;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 2vw 0.5vw;
+    text-decoration: none;
+    font-size: 1.9vw;
+    padding-top: 8vw;
+    margin-left: 5vw;
+}
+.topnav-centered a:hover {
+    -webkit-text-stroke: 0.095vw rgb(241, 241, 241);
+    color: rgb(157, 207, 255);
+    
+  }
+
+.mercury h1{
+    
+    background: -webkit-linear-gradient(#eee, rgb(115, 160, 228));
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        letter-spacing: 0.5vw;
+        font-size: 5vw;
+        margin-top: 8vw;
+        margin-left: 2.5vw;
+        position: relative;
+        font-family:Stick No Bills;
+}
+
+.am {
+    letter-spacing: 0.5vw;
+    -webkit-background-clip: text;
+        font-size: 2vw;
+        margin-top: 2vw;
+        margin-left: 2.5vw;
+        margin-right: 45vw;
+        position: relative;
+        font-family:Stick No Bills;
+        color: white;
+}
+
+img.mer{
+    height: 28vw;
+    width: 28vw;
+    margin-left: 60vw;
+    margin-top: -35vw;
+    margin-bottom: 1vw;
+    position: relative;
+}
+
+.venus h1{
+    
+    background: -webkit-linear-gradient(#eee, rgb(115, 160, 228));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    letter-spacing: 0.5vw;
+    font-size: 5vw;
+    margin-top: 19vw;
+    margin-left: 2.5vw;
+    position: relative;
+    font-family:Stick No Bills;
+}
+
+.vm {
+letter-spacing: 0.5vw;
+-webkit-background-clip: text;
+    font-size: 2vw;
+    margin-top: 2vw;
+    margin-left: 2.5vw;
+    margin-right: 45vw;
+    position: relative;
+    font-family:Stick No Bills;
+    color: white;
+}
+
+img.ven{
+height: 32vw;
+width: 32vw;
+margin-left: 58vw;
+margin-top: -35vw;
+margin-bottom: -1vw;
+position: relative;
+}
+
+.earth h1{
+    
+    background: -webkit-linear-gradient(#eee, rgb(115, 160, 228));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    letter-spacing: 0.5vw;
+    font-size: 5vw;
+    margin-top: 19vw;
+    margin-left: 2.5vw;
+    position: relative;
+    font-family:Stick No Bills;
+}
+
+.em {
+letter-spacing: 0.5vw;
+-webkit-background-clip: text;
+    font-size: 2vw;
+    margin-top: 2vw;
+    margin-left: 2.5vw;
+    margin-right: 45vw;
+    position: relative;
+    font-family:Stick No Bills;
+    color: white;
+}
+
+img.ear{
+height: 34vw;
+width: 42vw;
+margin-left: 51vw;
+margin-top: -35vw;
+margin-bottom: -1vw;
+position: relative;
+}
+
+.mars h1{
+    
+    background: -webkit-linear-gradient(#eee, rgb(115, 160, 228));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    letter-spacing: 0.5vw;
+    font-size: 5vw;
+    margin-top: 19vw;
+    margin-left: 2.5vw;
+    position: relative;
+    font-family:Stick No Bills;
+}
+
+.mm {
+letter-spacing: 0.5vw;
+-webkit-background-clip: text;
+    font-size: 2vw;
+    margin-top: 2vw;
+    margin-left: 2.5vw;
+    margin-right: 45vw;
+    position: relative;
+    font-family:Stick No Bills;
+    color: white;
+}
+
+img.mars{
+height: 34vw;
+width: 58vw;
+margin-left: 45vw;
+margin-top: -38vw;
+margin-bottom: -6vw;
+position: relative;
+}
+
+
+.jupiter h1{
+    
+    background: -webkit-linear-gradient(#eee, rgb(115, 160, 228));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    letter-spacing: 0.5vw;
+    font-size: 5vw;
+    margin-top: 19vw;
+    margin-left: 2.5vw;
+    position: relative;
+    font-family:Stick No Bills;
+}
+
+.jm {
+letter-spacing: 0.5vw;
+-webkit-background-clip: text;
+    font-size: 2vw;
+    margin-top: 2vw;
+    margin-left: 2.5vw;
+    margin-right: 45vw;
+    position: relative;
+    font-family:Stick No Bills;
+    color: white;
+}
+
+img.jup{
+height: 34vw;
+width: 44vw;
+margin-left: 52vw;
+margin-top: -38vw;
+margin-bottom: -6vw;
+position: relative;
+}
+
+.saturn h1{
+    
+    background: -webkit-linear-gradient(#eee, rgb(115, 160, 228));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    letter-spacing: 0.5vw;
+    font-size: 5vw;
+    margin-top: 19vw;
+    margin-left: 2.5vw;
+    position: relative;
+    font-family:Stick No Bills;
+}
+
+.sm {
+letter-spacing: 0.5vw;
+-webkit-background-clip: text;
+    font-size: 2vw;
+    margin-top: 2vw;
+    margin-left: 2.5vw;
+    margin-right: 45vw;
+    position: relative;
+    font-family:Stick No Bills;
+    color: white;
+}
+
+img.sat{
+height: 38vw;
+width: 44vw;
+margin-left: 53vw;
+margin-top: -38vw;
+margin-bottom: -6vw;
+position: relative;
+}
+
+.uranus h1{
+    
+    background: -webkit-linear-gradient(#eee, rgb(115, 160, 228));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    letter-spacing: 0.5vw;
+    font-size: 5vw;
+    margin-top: 19vw;
+    margin-left: 2.5vw;
+    position: relative;
+    font-family:Stick No Bills;
+}
+
+.um {
+letter-spacing: 0.5vw;
+-webkit-background-clip: text;
+    font-size: 2vw;
+    margin-top: 2vw;
+    margin-left: 2.5vw;
+    margin-right: 45vw;
+    position: relative;
+    font-family:Stick No Bills;
+    color: white;
+}
+
+img.urs{
+height: 45vw;
+width: 54vw;
+margin-left: 50vw;
+margin-top: -38vw;
+margin-bottom: -8vw;
+position: relative;
+}
+
+.neptune h1{
+    
+    background: -webkit-linear-gradient(#eee, rgb(115, 160, 228));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    letter-spacing: 0.5vw;
+    font-size: 5vw;
+    margin-top: 19vw;
+    margin-left: 2.5vw;
+    position: relative;
+    font-family:Stick No Bills;
+}
+
+.nm {
+letter-spacing: 0.5vw;
+-webkit-background-clip: text;
+    font-size: 2vw;
+    margin-top: 2vw;
+    margin-left: 2.5vw;
+    margin-right: 45vw;
+    position: relative;
+    font-family:Stick No Bills;
+    color: white;
+}
+
+img.nep{
+height: 40vw;
+width: 49vw;
+margin-left: 50vw;
+margin-top: -38vw;
+margin-bottom: -4vw;
+position: relative;
+}
+
+.copy h6{
+    background-color: #eee;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 1.25vw;
+    position: relative;
+    color: #eee;
+    font-family:Stick No Bills;
+    bottom: -4vw;
+    left: 44%;
+}
+
+
+img.logo1{
+    height: 10vw;
+    width: 10vw;
+    margin-top: 2.6vw;
+    border-radius: 100%;
+    display: block;
+    margin-left: 43vw;
+    margin-right: auto;  
+    position: absolute;
+  }
+
+
+.line{width: 50vw; height:0.15vw; border:0 none; background:#d4d4d4; position: relative; right:2vw;left: -0.5vw; top:9vw}
