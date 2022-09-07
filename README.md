@@ -1,4 +1,7 @@
 # Spacewalk
+![GitHub language count](https://img.shields.io/github/languages/count/AnujSonawane/Spacewalk)
+![GitHub top language](https://img.shields.io/github/languages/top/AnujSonawane/Spacewalk?color=green)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/AnujSonawane/Spacewalk)
 ### 1] Home Page - Space-Walk
 ![home](https://user-images.githubusercontent.com/81616419/188910161-27701abd-d075-42a1-aeaa-b27c46b35e29.PNG)
 ### 2] Lets Go page - Space-Walk
